@@ -13,3 +13,4 @@ variable "preferred_backup_window" {}
 variable "skip_final_snapshot" {}
 variable "instance_class" {}
 variable "instance_count" {}
+variable "kms_key_id" {}
